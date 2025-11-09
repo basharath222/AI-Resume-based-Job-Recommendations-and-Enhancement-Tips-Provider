@@ -1,0 +1,10 @@
+AI Resume based Job Recommendations and Enhancement Tips Provider - This is an AI powered Job recommendation system from Linkedin and Nakuri Websites and also provide the Resume summary, Skill gaps and Future roadmap
+
+System Flow:
+   1. User Will upload their Resume
+   2. Extract the data From the Resume
+   3. Pass that extracted data to the LLM and LLM will provide:
+      > Resume summary
+      > Skill gap and missing areas
+      > Future Roadmap and Preparation Strategy
+   4. LLM also extract Job keywords and provide Recommendations 
